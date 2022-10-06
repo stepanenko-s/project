@@ -23,7 +23,7 @@
 Kubernetes
 
 - Automation tools:
-Github action, Argo CD
+Github action, Argo CD 
 
 - SCM:
 Github
