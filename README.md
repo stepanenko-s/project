@@ -44,6 +44,6 @@ Version selection in ArgoCD
 
 ## Links:
 
-Project repository: https://github.com/S-Stepanenko/project
+Project repository: https://github.com/stepanenko-s/project.git
 
 ![A4 - 2](https://user-images.githubusercontent.com/49452234/194337279-ecaea975-3506-4413-b381-9807821ef965.jpg)
