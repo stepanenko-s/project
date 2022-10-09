@@ -1,5 +1,5 @@
 image:
-  repository: "stepanenko-s/wordpress-prod" #"S-Stepanenko/wordpress-prod"
+  repository: "carex/wordpress-prod" #"S-Stepanenko/wordpress-prod"
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
 
