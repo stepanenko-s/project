@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   wordpress:
   - apiVersion: v2
+    appVersion: 0.0.20
+    created: "2022-10-09T06:55:23.992337214Z"
+    description: A Helm chart for Kubernetes
+    digest: dbd21944a094c524f18485f38350a020657658406e150e8c5f4bed170f583681
+    name: wordpress
+    type: application
+    urls:
+    - https://github.com/S-Stepanenko/project/chart/wordpress-0.0.20.tgz
+    version: 0.0.20
+  - apiVersion: v2
     appVersion: 0.0.19
-    created: "2022-10-09T06:24:08.481160943Z"
+    created: "2022-10-09T06:55:23.992063518Z"
     description: A Helm chart for Kubernetes
     digest: a39dacd5ad01178d60476feb0f476f61e675ccad6aeb672d7ea97a28abf1f72a
     name: wordpress
@@ -13,7 +23,7 @@ entries:
     version: 0.0.19
   - apiVersion: v2
     appVersion: 0.0.15
-    created: "2022-10-09T06:24:08.480883341Z"
+    created: "2022-10-09T06:55:23.991779922Z"
     description: A Helm chart for Kubernetes
     digest: b7bf5b54e88fbbb4d851af13fbea3361b94374b1096743b9c6ebb2f9508ba93d
     name: wordpress
@@ -23,7 +33,7 @@ entries:
     version: 0.0.15
   - apiVersion: v2
     appVersion: 0.0.14
-    created: "2022-10-09T06:24:08.480580739Z"
+    created: "2022-10-09T06:55:23.991406728Z"
     description: A Helm chart for Kubernetes
     digest: e46986cfe7b985020e1012012cf50b2450ea04db066cb29e575a4816fee0c7d2
     name: wordpress
@@ -33,7 +43,7 @@ entries:
     version: 0.0.14
   - apiVersion: v2
     appVersion: 0.0.13
-    created: "2022-10-09T06:24:08.480239036Z"
+    created: "2022-10-09T06:55:23.991069733Z"
     description: A Helm chart for Kubernetes
     digest: 4291c011ddadaee5765a2bc6f28df33a3fb6d2440ade4c3de919033a8e6bf4c4
     name: wordpress
@@ -43,7 +53,7 @@ entries:
     version: 0.0.13
   - apiVersion: v2
     appVersion: 0.0.12
-    created: "2022-10-09T06:24:08.479833332Z"
+    created: "2022-10-09T06:55:23.990728338Z"
     description: A Helm chart for Kubernetes
     digest: 9b6f4919bba0b23567f1cc6b216a1b230fbfe1356c142264c03313c2d57dd62a
     name: wordpress
@@ -121,4 +131,4 @@ entries:
     urls:
     - https://github.com/S-Stepanenko/project/chart/wordpress-0.0.5.tgz
     version: 0.0.5
-generated: "2022-10-09T06:24:08.479305128Z"
+generated: "2022-10-09T06:55:23.990220946Z"
